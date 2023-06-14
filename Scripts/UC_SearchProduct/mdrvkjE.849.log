@@ -1,0 +1,28 @@
+Start auto log messages stack - Iteration 1.
+Action.c(103): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(106): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(106): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(109): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(109): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(112): web_custom_request("collect") started  	[MsgId: MMSG-26355]
+Action.c(112): Notify: Transaction "UC_SearchProduct" ended with a "Stop" status (Duration: 9,1304 Wasted Time: 0,0011).
+Start auto log messages stack - Iteration 1.
+Action.c(103): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(106): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(106): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(109): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(109): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(112): web_custom_request("collect") started  	[MsgId: MMSG-26355]
+Action.c(112): Notify: Transaction "UC_SearchProduct" ended with a "Stop" status (Duration: 9,1316 Wasted Time: 0,0017).
+Abort was called from an action.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
+Action.c(112): Error -27760: Request "https://www.google-analytics.com/g/collect?v=2&tid=G-TBPYED8WSW&gtm=45je35v0&_p=1401734458&cid=597887473.1685924478&ul=ru-ru&sr=1600x900&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B113.0.5672.129%7CChromium%3B113.0.5672.129%7CNot-A.Brand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&ngs=1&_s=1&sid=1685924478&sct=1&seg=0&dl=https%3A%2F%2Fwww.advantageonlineshopping.com%2F&dt=%C2%A0Advantage%20Shopping&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1" failed  	[MsgId: MERR-27760]
+Abort was called from an action.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
+Action.c(112): Error -27760: Request "https://www.google-analytics.com/g/collect?v=2&tid=G-TBPYED8WSW&gtm=45je35v0&_p=1401734458&cid=597887473.1685924478&ul=ru-ru&sr=1600x900&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B113.0.5672.129%7CChromium%3B113.0.5672.129%7CNot-A.Brand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&ngs=1&_s=1&sid=1685924478&sct=1&seg=0&dl=https%3A%2F%2Fwww.advantageonlineshopping.com%2F&dt=%C2%A0Advantage%20Shopping&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1" failed  	[MsgId: MERR-27760]

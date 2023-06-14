@@ -1,0 +1,23 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2023/06/04 23:17:25
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2023/06/04 23:26:49
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2023/06/04 23:56:09
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2023/06/05 00:14:07
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2023/06/05 00:21:08
+StartRecordingIsDst_5=0
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[Security]
+UsingPersistForAuthentication=1
+UserName_2_1=User10
+Password_2_1=User10
+Realm_2_1=www.advantageonlineshopping.com:443
+EventId_2_1=816
+UserName_3_1=User10
+Password_3_1=User10
+Realm_3_1=www.advantageonlineshopping.com:443
+EventId_3_1=1202

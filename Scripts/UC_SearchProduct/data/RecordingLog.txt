@@ -1,0 +1,499 @@
+[API Trapper      (4bfc:b698)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (cc84:8a2c)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (ad90:3758)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (ad90:9b44)] ------------------------------------------------------------------------------------------
+[Network Analyzer (ad90:9b44)] Load Network Traffic Analyzers:
+[Network Analyzer (ad90:9b44)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (ad90:9b44)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (ad90:9b44)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (ad90:9b44)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (ad90:9b44)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (ad90:9b44)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (ad90:9b44)]     Analyzer Module: local_server (value=)
+[Network Analyzer (ad90:9b44)] ------------------------------------------------------------------------------------------
+[Network Analyzer (ad90:2b10)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 64.233.164.94:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:7eb4)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 173.194.222.84:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (ad90:7eb4)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:7d78)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Web Request      (ad90:2b10)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=113"   
+[Network Analyzer (ad90:2b10)]   (Sid:  1) Client -> Server @ : 469 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 64.233.165.138:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (ad90:b884)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90:7d78)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (ad90:2b10)] "GET /"   
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Client -> Server @ : 675 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  1) Server -> Client : 206 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:b884)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (ad90:63e8)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90:63e8)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (ad90:7f88)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90:7f88)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 3368 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/main.min.css"   
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Client -> Server @ : 578 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 142.251.1.97:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 14212 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /vendor/requirejs/require.js"   
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Client -> Server @ : 575 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90: 6f4)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 5102 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid=  7)  PROXIED!
+[Web Request      (ad90:2b10)] "GET /css/images/Down_arrow.svg"   
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Client -> Server @ : 633 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90: 6f4)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 1195 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /gtag/js?id=G-TBPYED8WSW"   
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Client -> Server @ : 563 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:c03c)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (ad90:c03c)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (ad90:2b10)] "GET /main.min.js"   
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Client -> Server @ : 559 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 196 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1226 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:6eb0)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:6eb0)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1226 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1226 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 7119 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1226 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  6) Server -> Client : 1282 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 216.239.32.178:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 216.239.32.178:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (ad90: aa0)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90: aa0)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (ad90:2b10)] "GET /services.properties"   
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Client -> Server @ : 657 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /analytics.js"   
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Client -> Server @ : 552 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:37e8)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:37e8)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "POST /g/collect?v=2&tid=G-TBPYED8WSW&gtm=45je35v0&_p=1401734458&cid=597887473.1685924478&ul=ru-ru&sr=1600x900&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B113.0.5672.129%7CChromium%3B113.0.5672.129%7CNot-A.Brand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&ngs=1&_s=1&sid=1685924478&sct=1&seg=0&dl=https%3A%2F%2Fwww.advantageonlineshopping.com%2F&dt=%C2%A0Advantage%20Shopping&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1"   
+[Network Analyzer (ad90:2b10)]   (Sid: 10) Client -> Server @ : 1020 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  9) Server -> Client : 580 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 10) Server -> Client : 446 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL"   
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Client -> Server @ : 785 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/logo.png"   
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Client -> Server @ : 787 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/closeDark.png"   
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Client -> Server @ : 792 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 3043 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Server -> Client : 1496 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 6974 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:54f8)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid= 13)  PROXIED!
+[Web Request      (ad90:2b10)] "GET /css/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff"   
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Client -> Server @ : 829 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:54f8)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (ad90:2b10)] "GET /css/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff"   
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Client -> Server @ : 827 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/fonts/roboto_light_macroman/Roboto-Light-webfont.woff"   
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Client -> Server @ : 825 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/favicon.ico"   
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Client -> Server @ : 790 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 209.85.233.95:443   (Service=)  (Sid= 14)  PROXIED!
+[Web Request      (ad90:2b10)] "POST /j/collect?v=1&_v=j100&a=1401734458&t=pageview&_s=1&dl=https%3A%2F%2Fwww.advantageonlineshopping.com%2F&dp=%2F&ul=ru-ru&de=UTF-8&dt=%C2%A0Advantage%20Shopping&sd=24-bit&sr=1600x900&vp=1600x789&je=0&_u=IADAAEABAAAAACAAI~&jid=1205036648&gjid=1625254589&cid=597887473.1685924478&tid=UA-81334227-1&_gid=1979521519.1685924484&_r=1&_slc=1&z=1521800794"   
+[Network Analyzer (ad90:2b10)]   (Sid: 10) Client -> Server @ : 975 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 10) Server -> Client : 520 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:b8d0)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90:b8d0)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 9031 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Server -> Client : 1551 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 1058 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 8587 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Server -> Client : 9059 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "POST /accountservice/ws/GetAccountConfigurationRequest"   
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 361 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90: b40)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90: b40)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (ad90:cd90)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90:cd90)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 1570 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /v1/pages/ChVDaHJvbWUvMTEzLjAuNTY3Mi4xMjkSJQlHItGD0Q1lLhIFDeeNQA4SBQ3OQUx6EgUNeG8SGRIFDQ8Wvis=?alt=proto"   
+[Network Analyzer (ad90:2b10)]   (Sid: 14) Client -> Server @ : 551 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/api/v1/categories"   
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 801 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 14) Server -> Client : 507 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 4917 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/api/v1/deals/search?dealOfTheDay=true"   
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 821 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 783 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /app/tempFiles/popularProducts.json"   
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 810 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 965 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /app/views/home-page.html"   
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 776 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 2702 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/arrow_right.png"   
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 852 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/fetchImage?image_id=speakers"   
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Client -> Server @ : 846 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/fetchImage?image_id=tablets"   
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Client -> Server @ : 845 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/fetchImage?image_id=laptops"   
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Client -> Server @ : 845 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/fetchImage?image_id=mice"   
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Client -> Server @ : 842 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/fetchImage?image_id=headphones"   
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Client -> Server @ : 848 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 1392 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/Special-offer.jpg"   
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 838 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Server -> Client : 15494 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Server -> Client : 15145 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Server -> Client : 11390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 15691 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 10229 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 51 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 173.194.222.94:443   (Service=)  (Sid= 15)  PROXIED!
+[Web Request      (ad90:2b10)] "GET /css/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff"   
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Client -> Server @ : 865 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/fonts/roboto_thin_macroman/Roboto-Thin-webfont.woff"   
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Client -> Server @ : 865 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/facebook.png"   
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Client -> Server @ : 833 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/GoUp.png"   
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Client -> Server @ : 829 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/chat_logo.png"   
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 834 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/twitter.png"   
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Client -> Server @ : 832 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:5f20)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90:5f20)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Server -> Client : 8819 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 1981 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Server -> Client : 8955 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 2512 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/linkedin.png"   
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Client -> Server @ : 833 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 3401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Server -> Client : 2462 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/Banner1.jpg"   
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 832 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/Banner2.jpg"   
+[API Trapper      (af64:6094)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Client -> Server @ : 832 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/Banner3.jpg"   
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Client -> Server @ : 832 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/Popular-item3.jpg"   
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Client -> Server @ : 838 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/Popular-item2.jpg"   
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Client -> Server @ : 838 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Server -> Client : 2105 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/Popular-item1.jpg"   
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Client -> Server @ : 838 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 9995 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Server -> Client : 12104 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  8) Server -> Client : 10370 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Server -> Client : 3321 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 3572 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 5261 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 64.233.161.188:5228   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (ad90:bdec)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90:bdec)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (ad90:2b10)] "GET /catalog/api/v1/categories/3/products"   
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 812 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 16) Client -> Server @ : 156 bytes (SSL)
+[Network Analyzer (ad90:2b10)]   (Sid: 16) Server -> Client : 1 bytes (SSL)
+[Network Analyzer (ad90:2b10)]   (Sid: 16) Server -> Client : 67 bytes (SSL)
+[Network Analyzer (ad90:2b10)]   (Sid: 16) Server -> Client : 12 bytes (SSL)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 1894 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/api/v1/categories/attributes"   
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 812 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 984 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /app/views/category-page.html"   
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 780 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 1154 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/category_banner_3.png"   
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 842 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/Filter.png"   
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Client -> Server @ : 831 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/fetchImage?image_id=3100"   
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Client -> Server @ : 842 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/fetchImage?image_id=3200"   
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Client -> Server @ : 842 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/fetchImage?image_id=3300"   
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Client -> Server @ : 842 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 1813 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Server -> Client : 12197 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 4098 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Server -> Client : 13090 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 13533 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/api/v1/categories/all_data"   
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 810 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/api/v1/products/17"   
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Client -> Server @ : 802 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 1059 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/api/v1/categories/3/products"   
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Client -> Server @ : 812 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 1890 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /app/views/product-page.html"   
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Client -> Server @ : 779 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 8929 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 2818 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/review_right.png"   
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Client -> Server @ : 837 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/reviewUser.png"   
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Client -> Server @ : 835 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/review_Left_disabled.png"   
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Client -> Server @ : 845 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/fetchImage?image_id=3201"   
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Client -> Server @ : 842 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /catalog/fetchImage?image_id=3202"   
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Client -> Server @ : 842 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  2) Server -> Client : 1473 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 12) Server -> Client : 1940 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 13) Server -> Client : 1485 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Server -> Client : 8407 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 12558 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 142.251.1.95:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (ad90:1480)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90:1480)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[User action                 ] StartTransactionEvent gotoCart [Web Request      (ad90:2b10)] "GET /app/views/shoppingCart.html"   
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Client -> Server @ : 1109 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 1923 bytes (SSL) (Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/Master_credit.png"   
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Client -> Server @ : 1168 bytes (SSL)(Service=HTTP)
+[Web Request      (ad90:2b10)] "GET /css/images/SafePay.png"   
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Client -> Server @ : 1162 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid:  7) Server -> Client : 2049 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Server -> Client : 5048 bytes (SSL) (Service=HTTP)
+[User action                 ] EndTransactionEvent gotoCart [User action                 ] StartTransactionEvent gotoCheckout [Web Request      (ad90:2b10)] "GET /app/order/views/user-not-login-page.html"   
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Client -> Server @ : 1122 bytes (SSL)(Service=HTTP)
+[Network Analyzer (ad90:2b10)]   (Sid: 11) Server -> Client : 1045 bytes (SSL) (Service=HTTP)
+[Network Analyzer (ad90:9b44)] Address lookup for DESKTOP-U308OKO = 192.168.1.73
+[Network Analyzer (ad90:9b44)] Request Connection: Remote Server @ 173.194.222.94:443   (Service=)  (Sid= 18)  PROXIED!
+[User action                 ] EndTransactionEvent gotoCheckout [Network Analyzer (ad90:5774)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (ad90:5774)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)

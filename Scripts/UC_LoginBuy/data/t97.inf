@@ -1,0 +1,17 @@
+[t97]
+FileName1=t97.htm
+URL1=https://www.advantageonlineshopping.com/app/order/views/orderPayment-page.html
+Total=4
+RequestHeaderFile=t97_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t97_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_97.xml
+FileName2=t97_User.jpg
+URL2=https://www.advantageonlineshopping.com/css/images/User.jpg
+FileName3=t97_Shipex.png
+URL3=https://www.advantageonlineshopping.com/css/images/Shipex.png
+FileName4=t97_Bell.png
+URL4=https://www.advantageonlineshopping.com/css/images/Bell.png
+[ProtocolInfo]
+ProtocolId=QTWeb

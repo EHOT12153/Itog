@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\EHOT\Desktop\Itog\Scripts\UC_Registration
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\ehot\desktop\itog\scripts\uc_registration\\logfile.log
+c:\users\ehot\desktop\itog\scripts\uc_registration\\combined_UC_Registration.c
+c:\users\ehot\desktop\itog\scripts\uc_registration\\pre_cci.c

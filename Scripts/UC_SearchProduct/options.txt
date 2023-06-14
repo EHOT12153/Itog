@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\EHOT\Documents\VuGen\Scripts\readySearchProductsScript
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\ehot\documents\vugen\scripts\readysearchproductsscript\\logfile.log
+c:\users\ehot\documents\vugen\scripts\readysearchproductsscript\\combined_readySearchProductsScript.c
+c:\users\ehot\documents\vugen\scripts\readysearchproductsscript\\pre_cci.c

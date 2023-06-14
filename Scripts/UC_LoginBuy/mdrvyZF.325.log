@@ -1,0 +1,14 @@
+Start auto log messages stack - Iteration 64.	[MsgId: MMSG-10545]
+Action.c(434): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action.c(434): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(437): Notify: Transaction "productSelection" ended with a "Pass" status (Duration: 5,4872 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(439): Notify: Transaction "addProductToCart" started.	[MsgId: MMSG-16999]
+Action.c(441): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(441): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(444): Think time - Waiting 5,00 seconds (according to limit).	[MsgId: MMSG-15946]
+Action.c(444): lr_think_time: 5,00 seconds (recorded think time was 19,00 seconds).	[MsgId: MMSG-15947]
+Action.c(448): web_submit_data("DD3A5B") started  	[MsgId: MMSG-26355]
+Action.c(448): Error -26630: HTTP Status-Code=401 (Unauthorized) for "https://www.advantageonlineshopping.com/order/api/v1/carts/508466913/product/30/color/DD3A5B?quantity=1"  	[MsgId: MERR-26630]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

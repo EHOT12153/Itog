@@ -1,0 +1,50 @@
+﻿[ErrorsDataSupervisor_BasicInfo]
+NumFilters=2
+
+[AdditionalFilter0]
+DimensionType=Discrete
+InternalDimName=Event Name
+Dimension=Transaction Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=17
+UseEscapeSequence=1
+DimCount=17
+Dim_0=addProductToCart
+Dim_1=checkout
+Dim_2=clickEditPaymentMethod
+Dim_3=clickEditUser
+Dim_4=clickUser
+Dim_5=feelUserData
+Dim_6=gotoCart
+Dim_7=gotoCheckout
+Dim_8=homePage
+Dim_9=login
+Dim_10=logout
+Dim_11=miceCategory
+Dim_12=openHomepage
+Dim_13=productSelection
+Dim_14=register
+Dim_15=SafePayData
+Dim_16=signOut
+LikeMode=0
+
+[AdditionalFilter1]
+DimensionType=Continuous
+InternalDimName=End Time
+Dimension=Scenario Elapsed Time
+EqualFlag=1
+DimensionTableName=Event_meter
+NumValues=1
+DimCount=2
+Dim_0=0.000000
+Dim_1=5400.000000
+
+[DimensionFunctions]
+DimeFuncCount=1
+DimeFuncType0=FuncFragment
+FunctionName_UI0=Think Time
+DimensionName_UI0=Transaction Response Time,Aminimum,Amaximum
+FunctionFragmentValues_UI0=-Include Think Time
+DimensionFragmentValues_UI0=!([Value]-[Think Time])!,!([Aminimum]-[Think Time])!,!([Amaximum]-[Think Time])!
+

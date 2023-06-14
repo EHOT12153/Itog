@@ -1,0 +1,17 @@
+[t36]
+FileName1=t36.xml
+URL1=https://www.advantageonlineshopping.com/accountservice/ws/GetCountriesRequest
+Total=4
+RequestHeaderFile=t36_RequestHeader.txt
+RequestBodyFile=t36_RequestBody.txt
+ResponseHeaderFile=t36_ResponseHeader.txt
+ContentType=text/xml
+SnapshotXmlFile=snapshot_36.xml
+FileName2=t36_Check.png
+URL2=https://www.advantageonlineshopping.com/css/images/Check.png
+FileName3=t36_success.txt
+URL3=http://detectportal.firefox.com/success.txt
+FileName4=t36_success.txt
+URL4=http://detectportal.firefox.com/success.txt?ipv4
+[ProtocolInfo]
+ProtocolId=QTWeb

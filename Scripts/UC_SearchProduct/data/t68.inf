@@ -1,0 +1,13 @@
+[t68]
+FileName1=t68.htm
+URL1=https://www.advantageonlineshopping.com/app/order/views/orderPayment-page.html
+Total=2
+RequestHeaderFile=t68_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t68_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_68.xml
+FileName2=t68_Bell.png
+URL2=https://www.advantageonlineshopping.com/css/images/Bell.png
+[ProtocolInfo]
+ProtocolId=QTWeb

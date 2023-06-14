@@ -1,0 +1,17 @@
+[t148]
+FileName1=t148_ALL.json
+URL1=https://www.advantageonlineshopping.com/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL
+Total=4
+ContentType=application/json
+SnapshotXmlFile=snapshot_148.xml
+RequestHeaderFile=t148_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t148_ResponseHeader.txt
+FileName2=t148_Roboto-Medium-webfont.html
+URL2=https://www.advantageonlineshopping.com/css/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff
+FileName3=t148_success.txt
+URL3=http://detectportal.firefox.com/success.txt
+FileName4=t148_success.txt
+URL4=http://detectportal.firefox.com/success.txt?ipv4
+[ProtocolInfo]
+ProtocolId=QTWeb

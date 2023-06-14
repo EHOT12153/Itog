@@ -1,0 +1,15 @@
+[t31]
+FileName1=t31.json
+URL1=https://update.googleapis.com/service/update2/json?cup2key=13:5IPrAHUzEUOl7H4nmjBhnYGULanR5ZZmg2PRwmdWh40&cup2hreq=fe5dd19f31778ae69ad33f69451f233e609ddf89981c2304e8676311eda9d350
+Total=3
+RequestHeaderFile=t31_RequestHeader.txt
+RequestBodyFile=t31_RequestBody.txt
+ResponseHeaderFile=t31_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_31.xml
+FileName2=t31_Down_arrow.svg
+URL2=https://www.advantageonlineshopping.com/css/images/Down_arrow.svg
+FileName3=t31_require.html
+URL3=https://www.advantageonlineshopping.com/vendor/requirejs/require.js
+[ProtocolInfo]
+ProtocolId=QTWeb

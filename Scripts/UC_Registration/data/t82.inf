@@ -1,0 +1,17 @@
+[t82]
+FileName1=t82.txt
+URL1=https://www.google-analytics.com/g/collect?v=2&tid=G-TBPYED8WSW&gtm=45je35v0&_p=2061835971&cid=663199188.1685877234&ul=ru-ru&sr=1600x900&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B113.0.5672.129%7CChromium%3B113.0.5672.129%7CNot-A.Brand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&ngs=1&_s=1&sid=1685877233&sct=1&seg=0&dl=https%3A%2F%2Fwww.advantageonlineshopping.com%2F&dt=%C2%A0Advantage%20Shopping&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1
+Total=4
+RequestHeaderFile=t82_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t82_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_82.xml
+FileName2=t82_services.html
+URL2=https://www.advantageonlineshopping.com/services.properties
+FileName3=t82_logo.png
+URL3=https://www.advantageonlineshopping.com/css/images/logo.png
+FileName4=t82_closeDark.png
+URL4=https://www.advantageonlineshopping.com/css/images/closeDark.png
+[ProtocolInfo]
+ProtocolId=QTWeb

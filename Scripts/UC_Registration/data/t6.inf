@@ -1,0 +1,15 @@
+[t6]
+FileName1=t6.json
+URL1=https://update.googleapis.com/service/update2/json?cup2key=13:oBDzgsKPI1rPoCxj29iI-8cku5rARrIF7FyziJk7s0o&cup2hreq=3ce50903753c09d17cf45bb3652853377cafbafd94380bf7030c92e1e36d1b86
+Total=3
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=t6_RequestBody.txt
+ResponseHeaderFile=t6_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_6.xml
+FileName2=t6_main.min.css
+URL2=https://www.advantageonlineshopping.com/css/main.min.css
+FileName3=t6_js.html
+URL3=https://www.googletagmanager.com/gtag/js?id=G-TBPYED8WSW
+[ProtocolInfo]
+ProtocolId=QTWeb

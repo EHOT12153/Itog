@@ -1,0 +1,17 @@
+[t69]
+FileName1=t69.xml
+URL1=https://www.advantageonlineshopping.com/accountservice/ws/GetCountriesRequest
+Total=4
+RequestHeaderFile=t69_RequestHeader.txt
+RequestBodyFile=t69_RequestBody.txt
+ResponseHeaderFile=t69_ResponseHeader.txt
+ContentType=text/xml
+SnapshotXmlFile=snapshot_69.xml
+FileName2=t69_Check.png
+URL2=https://www.advantageonlineshopping.com/css/images/Check.png
+FileName3=t69_User.jpg
+URL3=https://www.advantageonlineshopping.com/css/images/User.jpg
+FileName4=t69_Shipex.png
+URL4=https://www.advantageonlineshopping.com/css/images/Shipex.png
+[ProtocolInfo]
+ProtocolId=QTWeb

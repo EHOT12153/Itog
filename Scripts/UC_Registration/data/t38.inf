@@ -1,0 +1,15 @@
+[t38]
+FileName1=t38.json
+URL1=https://www.googleapis.com/oauth2/v4/token
+Total=3
+RequestHeaderFile=t38_RequestHeader.txt
+RequestBodyFile=t38_RequestBody.txt
+ResponseHeaderFile=t38_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_38.xml
+FileName2=t38_Down_arrow.svg
+URL2=https://www.advantageonlineshopping.com/css/images/Down_arrow.svg
+FileName3=t38_require.html
+URL3=https://www.advantageonlineshopping.com/vendor/requirejs/require.js
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,216 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: www.advantageonlineshopping.com",
+                "infFile": "t1.inf",
+                "time": 1686511953291
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: ALL",
+                "infFile": "t2.inf",
+                "time": 1686511953566
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: GetAccountConfigurationRequest",
+                "infFile": "t3.inf",
+                "time": 1686511953863
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: categories",
+                "infFile": "t4.inf",
+                "time": 1686511954176
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: search",
+                "infFile": "t5.inf",
+                "time": 1686511954450
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: popularProducts.json",
+                "infFile": "t6.inf",
+                "time": 1686511954620
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: home-page.html",
+                "infFile": "t7.inf",
+                "time": 1686511955116
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: register-page.html",
+                "infFile": "t8.inf",
+                "time": 1686511955377
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: GetCountriesRequest",
+                "infFile": "t9.inf",
+                "time": 1686511955847
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Custom Request: AccountCreateRequest",
+                "infFile": "t10.inf",
+                "time": 1686511956253
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: AccountLoginRequest",
+                "infFile": "t11.inf",
+                "time": 1686511956652
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: GetAccountByIdNewRequest",
+                "infFile": "t12.inf",
+                "time": 1686511957135
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: GetAddressesByAccountIdRequest",
+                "infFile": "t13.inf",
+                "time": 1686511957463
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Custom Request: GetAccountPaymentPreferencesRequest",
+                "infFile": "t14.inf",
+                "time": 1686511957805
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Url: myAccount-page.html",
+                "infFile": "t15.inf",
+                "time": 1686511958326
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Custom Request: GetAccountByIdNewRequest_2",
+                "infFile": "t16.inf",
+                "time": 1686511958754
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Custom Request: GetAccountPaymentPreferencesRequest_2",
+                "infFile": "t17.inf",
+                "time": 1686511959094
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Url: accountPaymentEdit-page.html",
+                "infFile": "t18.inf",
+                "time": 1686511959570
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Custom Request: AddSafePayMethodRequest",
+                "infFile": "t19.inf",
+                "time": 1686511959969
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Custom Request: PaymentMethodUpdateRequest",
+                "infFile": "t20.inf",
+                "time": 1686511960399
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Custom Request: GetAccountByIdNewRequest_3",
+                "infFile": "t21.inf",
+                "time": 1686511960738
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Custom Request: GetAddressesByAccountIdRequest_2",
+                "infFile": "t22.inf",
+                "time": 1686511961062
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Custom Request: GetAccountPaymentPreferencesRequest_3",
+                "infFile": "t23.inf",
+                "time": 1686511961437
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Custom Request: AccountLogoutRequest",
+                "infFile": "t24.inf",
+                "time": 1686511961875
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "openHomepage",
+                "rawStartTime": 1686511940269,
+                "rawEndTime": 1686511955121,
+                "thinkTime": 0.0,
+                "wastedTime": 0.5764243602752686
+            },
+            {
+                "transactionName": "clickUser",
+                "rawStartTime": 1686511955153,
+                "rawEndTime": 1686511955168,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "register",
+                "rawStartTime": 1686511955184,
+                "rawEndTime": 1686511955850,
+                "thinkTime": 0.0,
+                "wastedTime": 0.028360843658447267
+            },
+            {
+                "transactionName": "feelUserData",
+                "rawStartTime": 1686511955866,
+                "rawEndTime": 1686511956721,
+                "thinkTime": 0.0,
+                "wastedTime": 0.024251222610473634
+            },
+            {
+                "transactionName": "clickEditUser",
+                "rawStartTime": 1686511956737,
+                "rawEndTime": 1686511958337,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04488658905029297
+            },
+            {
+                "transactionName": "clickEditPaymentMethod",
+                "rawStartTime": 1686511958354,
+                "rawEndTime": 1686511959578,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0340883731842041
+            },
+            {
+                "transactionName": "SafePayData",
+                "rawStartTime": 1686511959594,
+                "rawEndTime": 1686511961449,
+                "thinkTime": 0.0,
+                "wastedTime": 0.05361199378967285
+            },
+            {
+                "transactionName": "signOut",
+                "rawStartTime": 1686511961465,
+                "rawEndTime": 1686511961879,
+                "thinkTime": 0.0,
+                "wastedTime": 0.013562917709350586
+            },
+            {
+                "transactionName": "UC_Registration",
+                "rawStartTime": 1686511939879,
+                "rawEndTime": 1686511961895,
+                "thinkTime": 0.0,
+                "wastedTime": 0.9625892639160156
+            }
+        ]
+    }
+]

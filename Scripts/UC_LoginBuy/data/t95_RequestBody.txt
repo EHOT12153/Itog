@@ -1,0 +1,4 @@
+"{\"seaddress\":{\"addressLine1\":\"Moscow1\",\"addressLine2\":\"\",\"city\":\"Moscow\",\"count"
+"ry\":\"sm\",\"postalCode\":123456,\"state\":\"Moscow\"},\"secustomerName\":\"User11first User1"
+"1last\",\"secustomerPhone\":1234567,\"senumberOfProducts\":1,\"setransactionType\":\"SHIPPING_"
+"COST\",\"sessionId\":\"29B88EF3D0FB10DF44720BB4B5ACCB12\"}"

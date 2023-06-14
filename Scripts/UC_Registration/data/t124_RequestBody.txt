@@ -1,0 +1,6 @@
+"<?xml version=\"1.0\" encoding=\"UTF-8\"?><soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.o"
+"rg/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http:/"
+"/www.w3.org/2001/XMLSchema\"><soap:Body><PaymentMethodUpdateRequest xmlns=\"com.advantage.onli"
+"ne.store.accountservice\"><accountId>590778546</accountId><paymentMethod>10</paymentMethod><ba"
+"se64Token>Basic VXNlcjIxOlVzZXIyMQ==</base64Token></PaymentMethodUpdateRequest></soap:Body></s"
+"oap:Envelope>"

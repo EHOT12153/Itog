@@ -1,0 +1,13 @@
+[t67]
+FileName1=t67.xml
+URL1=https://www.advantageonlineshopping.com/accountservice/ws/GetAccountConfigurationRequest
+Total=2
+RequestHeaderFile=t67_RequestHeader.txt
+RequestBodyFile=t67_RequestBody.txt
+ResponseHeaderFile=t67_ResponseHeader.txt
+ContentType=text/xml
+SnapshotXmlFile=snapshot_67.xml
+FileName2=t67_ChVDaHJvbWUvMTEzLjAuNTY3Mi4xMjkSJQlHItGD0Q1lLhIFDeeNQA4SBQ3OQUx6EgUNeG8SGRIFDQ8Wvis=.txt
+URL2=https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTEzLjAuNTY3Mi4xMjkSJQlHItGD0Q1lLhIFDeeNQA4SBQ3OQUx6EgUNeG8SGRIFDQ8Wvis=?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

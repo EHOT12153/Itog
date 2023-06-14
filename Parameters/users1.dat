@@ -1,0 +1,11 @@
+username,email,password,firstname,lastname,phonenumber,country,city,address,region,postalcode
+User10,User10@user.com,User10,User10firstname,User10lastname,1234567,Russia,Moscow,Moscow10,Moscow,123456
+User11,User11@user.com,User11,User11firstname,User11lastname,7654321,Russia,Moscow,Moscow11,Moscow,654321
+User12,User12@user.com,User12,User12firstname,User12lastname,6754321,Russia,Moscow,Moscow12,Moscow,456123
+User13,User13@user.com,User13,User13firstname,User13lastname,3216547,Russia,Moscow,Moscow13,Moscow,564123
+User14,User14@user.com,User14,User14firstname,User14lastname,5641237,Russia,Moscow,Moscow14,Moscow,324621
+User15,User15@user.com,User15,User15firstname,User15lastname,2134567,Russia,Moscow,Moscow15,Moscow,423165
+User16,User16@user.com,User16,User16firstname,User16lastname,2356412,Russia,Moscow,Moscow16,Moscow,164235
+User17,User17@user.com,User17,User17firstname,User17lastname,7564132,Russia,Moscow,Moscow17,Moscow,152436
+User18,User18@user.com,User18,User18firstname,User18lastname,2341567,Russia,Moscow,Moscow18,Moscow,423157
+User19,User19@user.com,User19,User19firstname,User19lastname,7756123,Russia,Moscow,Moscow19,Moscow,445213

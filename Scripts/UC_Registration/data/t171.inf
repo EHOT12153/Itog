@@ -1,0 +1,11 @@
+[t171]
+FileName1=t171.xml
+URL1=https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest
+Total=1
+RequestHeaderFile=t171_RequestHeader.txt
+RequestBodyFile=t171_RequestBody.txt
+ResponseHeaderFile=t171_ResponseHeader.txt
+ContentType=text/xml
+SnapshotXmlFile=snapshot_171.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

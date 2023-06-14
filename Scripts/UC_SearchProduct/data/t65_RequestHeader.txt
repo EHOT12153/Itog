@@ -1,0 +1,17 @@
+GET /order/api/v1/carts/912273569 HTTP/1.1
+Host: www.advantageonlineshopping.com
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+Accept: application/json, text/plain, */*
+sec-ch-ua-mobile: ?0
+Authorization: Basic VXNlcjEwOlVzZXIxMA==
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.advantageonlineshopping.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9
+Cookie: JSESSIONID=953F9888FFF975656EAFC9E0C98D0AF2; _ga_TBPYED8WSW=GS1.1.1685922977.1.0.1685922977.0.0.0; _ga=GA1.2.1551097756.1685922978; _gid=GA1.2.1796913950.1685922979; _gat=1
+

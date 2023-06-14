@@ -1,0 +1,15 @@
+[t111]
+FileName1=t111.xml
+URL1=https://www.advantageonlineshopping.com/accountservice/ws/GetCountriesRequest
+Total=3
+RequestHeaderFile=t111_RequestHeader.txt
+RequestBodyFile=t111_RequestBody.txt
+ResponseHeaderFile=t111_ResponseHeader.txt
+ContentType=text/xml
+SnapshotXmlFile=snapshot_111.xml
+FileName2=t111_Bell.png
+URL2=https://www.advantageonlineshopping.com/css/images/Bell.png
+FileName3=t111_Check.png
+URL3=https://www.advantageonlineshopping.com/css/images/Check.png
+[ProtocolInfo]
+ProtocolId=QTWeb

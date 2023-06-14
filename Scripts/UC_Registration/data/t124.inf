@@ -1,0 +1,11 @@
+[t124]
+FileName1=t124.xml
+URL1=https://www.advantageonlineshopping.com/accountservice/ws/PaymentMethodUpdateRequest
+Total=1
+RequestHeaderFile=t124_RequestHeader.txt
+RequestBodyFile=t124_RequestBody.txt
+ResponseHeaderFile=t124_ResponseHeader.txt
+ContentType=text/xml
+SnapshotXmlFile=snapshot_124.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

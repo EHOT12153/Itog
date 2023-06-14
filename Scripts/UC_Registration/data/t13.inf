@@ -1,0 +1,15 @@
+[t13]
+FileName1=t13.txt
+URL1=https://www.google-analytics.com/j/collect?v=1&_v=j100&a=1800296400&t=pageview&_s=1&dl=https%3A%2F%2Fwww.advantageonlineshopping.com%2F&dp=%2F&ul=ru-ru&de=UTF-8&dt=%C2%A0Advantage%20Shopping&sd=24-bit&sr=1600x900&vp=1600x789&je=0&_u=IADAAEABAAAAACAAI~&jid=210165281&gjid=197604103&cid=1575049444.1685868136&tid=UA-81334227-1&_gid=149612483.1685868170&_r=1&_slc=1&z=1765443510
+Total=3
+RequestHeaderFile=t13_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t13_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_13.xml
+FileName2=t13_ChVDaHJvbWUvMTEzLjAuNTY3Mi4xMjkSJQlHItGD0Q1lLhIFDeeNQA4SBQ3OQUx6EgUNeG8SGRIFDQ8Wvis=.txt
+URL2=https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTEzLjAuNTY3Mi4xMjkSJQlHItGD0Q1lLhIFDeeNQA4SBQ3OQUx6EgUNeG8SGRIFDQ8Wvis=?alt=proto
+FileName3=t13_Roboto-Light-webfont.html
+URL3=https://www.advantageonlineshopping.com/css/fonts/roboto_light_macroman/Roboto-Light-webfont.woff
+[ProtocolInfo]
+ProtocolId=QTWeb

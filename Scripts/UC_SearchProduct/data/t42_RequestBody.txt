@@ -1,0 +1,4 @@
+"{\"seaddress\":{\"addressLine1\":\"Moscow10\",\"addressLine2\":\"\",\"city\":\"Moscow\",\"coun"
+"try\":\"fr\",\"postalCode\":123456,\"state\":\"Moscow\"},\"secustomerName\":\"User10firstname "
+"User10lastname\",\"secustomerPhone\":1234567,\"senumberOfProducts\":1,\"setransactionType\":\""
+"SHIPPING_COST\",\"sessionId\":\"71D9684E409A3B75E7049BCA061223EC\"}"

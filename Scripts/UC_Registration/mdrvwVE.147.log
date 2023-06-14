@@ -1,0 +1,271 @@
+Vuser 11 (thread 3344), ended OK."	[MsgId: MMSG-10695]
+Action.c(654): t=5415484ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=3854)
+Action.c(654):     HTTP/2.0 200\r\n
+Action.c(654):     Status: 200\r\n
+Action.c(654):     server: nginx/1.18.0 (Ubuntu)\r\n
+Action.c(654):     date: Tue, 13 Jun 2023 01:50:58 GMT\r\n
+Action.c(654):     content-type: text/xml;charset=utf-8\r\n
+Action.c(654):     content-length: 402\r\n
+Action.c(654):     x-content-type-options: nosniff\r\n
+Action.c(654):     x-xss-protection: 1; mode=block\r\n
+Action.c(654):     cache-control: no-store\r\n
+Action.c(654):     pragma: no-cache\r\n
+Action.c(654):     expires: 0\r\n
+Action.c(654):     x-frame-options: DENY\r\n
+Action.c(654):     access-control-request-method: POST, GET, OPTIONS, DELETE\r\n
+Action.c(654):     access-control-allow-methods: POST, GET, OPTIONS, DELETE\r\n
+Action.c(654):     access-control-max-age: 3600\r\n
+Action.c(654):     access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Key, soapact
+Action.c(654):     ion\r\n
+Action.c(654):     access-control-allow-origin: *\r\n
+Action.c(654):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\n
+Action.c(654):     soapaction: ""\r\n
+Action.c(654):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(654):     \r\n
+Action.c(654): t=5415485ms: 402-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=3854)
+Action.c(654):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
+Action.c(654):     ader/><SOAP-ENV:Body><ns2:AccountLogoutResponse xmlns:ns2="com.advantage.online.store.acco
+Action.c(654):     untservice"><ns2:StatusMessage><ns2:success>true</ns2:success><ns2:userId>611849985</ns2:u
+Action.c(654):     serId><ns2:reason>Logout Successful</ns2:reason></ns2:StatusMessage></ns2:AccountLogoutRes
+Action.c(654):     ponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+Action.c(654): t=5415485ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest"  	[MsgId: MMSG-26000]
+Action.c(654): web_custom_request("AccountLogoutRequest") was successful, 402 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
+Action.c(667): Notify: Transaction "signOut" ended with a "Pass" status (Duration: 5,5172 Think Time: 5,0134 Wasted Time: 0,0000).	[MsgId: MMSG-16870]
+Action.c(669): Notify: Transaction "UC_Registration" ended with a "Pass" status (Duration: 54,4711 Think Time: 35,0914 Wasted Time: 0,0012).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=5415486ms: Closed connection [0] to detectportal.firefox.com:80 after completing 20 request(s)  	[MsgId: MMSG-26000]
+t=5415486ms: Closed connection [1] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=5415487ms: Closed connection [2] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=5415487ms: Closed connection [3] to detectportal.firefox.com:80 after completing 5 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 1 (thread 47844), ended OK."	[MsgId: MMSG-10695]
+Action.c(654): t=5415640ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=3854)
+Action.c(654):     HTTP/2.0 200\r\n
+Action.c(654):     Status: 200\r\n
+Action.c(654):     server: nginx/1.18.0 (Ubuntu)\r\n
+Action.c(654):     date: Tue, 13 Jun 2023 01:50:58 GMT\r\n
+Action.c(654):     content-type: text/xml;charset=utf-8\r\n
+Action.c(654):     content-length: 402\r\n
+Action.c(654):     x-content-type-options: nosniff\r\n
+Action.c(654):     x-xss-protection: 1; mode=block\r\n
+Action.c(654):     cache-control: no-store\r\n
+Action.c(654):     pragma: no-cache\r\n
+Action.c(654):     expires: 0\r\n
+Action.c(654):     x-frame-options: DENY\r\n
+Action.c(654):     access-control-request-method: POST, GET, OPTIONS, DELETE\r\n
+Action.c(654):     access-control-allow-methods: POST, GET, OPTIONS, DELETE\r\n
+Action.c(654):     access-control-max-age: 3600\r\n
+Action.c(654):     access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Key, soapact
+Action.c(654):     ion\r\n
+Action.c(654):     access-control-allow-origin: *\r\n
+Action.c(654):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\n
+Action.c(654):     soapaction: ""\r\n
+Action.c(654):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(654):     \r\n
+Action.c(654): t=5415641ms: 402-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=3854)
+Action.c(654):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
+Action.c(654):     ader/><SOAP-ENV:Body><ns2:AccountLogoutResponse xmlns:ns2="com.advantage.online.store.acco
+Action.c(654):     untservice"><ns2:StatusMessage><ns2:success>true</ns2:success><ns2:userId>611849985</ns2:u
+Action.c(654):     serId><ns2:reason>Logout Successful</ns2:reason></ns2:StatusMessage></ns2:AccountLogoutRes
+Action.c(654):     ponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+Action.c(654): t=5415641ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest"  	[MsgId: MMSG-26000]
+Action.c(654): web_custom_request("AccountLogoutRequest") was successful, 402 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
+Action.c(667): Notify: Transaction "signOut" ended with a "Pass" status (Duration: 5,6117 Think Time: 5,0154 Wasted Time: 0,0000).	[MsgId: MMSG-16870]
+Action.c(669): Notify: Transaction "UC_Registration" ended with a "Pass" status (Duration: 54,6476 Think Time: 35,0649 Wasted Time: 0,0012).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=5415642ms: Closed connection [0] to detectportal.firefox.com:80 after completing 20 request(s)  	[MsgId: MMSG-26000]
+t=5415642ms: Closed connection [1] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=5415642ms: Closed connection [2] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=5415642ms: Closed connection [3] to detectportal.firefox.com:80 after completing 5 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 12 (thread 30624), ended OK."	[MsgId: MMSG-10695]
+Action.c(654): t=5415910ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=3854)
+Action.c(654):     HTTP/2.0 200\r\n
+Action.c(654):     Status: 200\r\n
+Action.c(654):     server: nginx/1.18.0 (Ubuntu)\r\n
+Action.c(654):     date: Tue, 13 Jun 2023 01:50:58 GMT\r\n
+Action.c(654):     content-type: text/xml;charset=utf-8\r\n
+Action.c(654):     content-length: 402\r\n
+Action.c(654):     x-content-type-options: nosniff\r\n
+Action.c(654):     x-xss-protection: 1; mode=block\r\n
+Action.c(654):     cache-control: no-store\r\n
+Action.c(654):     pragma: no-cache\r\n
+Action.c(654):     expires: 0\r\n
+Action.c(654):     x-frame-options: DENY\r\n
+Action.c(654):     access-control-request-method: POST, GET, OPTIONS, DELETE\r\n
+Action.c(654):     access-control-allow-methods: POST, GET, OPTIONS, DELETE\r\n
+Action.c(654):     access-control-max-age: 3600\r\n
+Action.c(654):     access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Key, soapact
+Action.c(654):     ion\r\n
+Action.c(654):     access-control-allow-origin: *\r\n
+Action.c(654):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\n
+Action.c(654):     soapaction: ""\r\n
+Action.c(654):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(654):     \r\n
+Action.c(654): t=5415911ms: 402-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=3854)
+Action.c(654):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
+Action.c(654):     ader/><SOAP-ENV:Body><ns2:AccountLogoutResponse xmlns:ns2="com.advantage.online.store.acco
+Action.c(654):     untservice"><ns2:StatusMessage><ns2:success>true</ns2:success><ns2:userId>611849985</ns2:u
+Action.c(654):     serId><ns2:reason>Logout Successful</ns2:reason></ns2:StatusMessage></ns2:AccountLogoutRes
+Action.c(654):     ponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+Action.c(654): t=5415911ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest"  	[MsgId: MMSG-26000]
+Action.c(654): web_custom_request("AccountLogoutRequest") was successful, 402 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
+Action.c(667): Notify: Transaction "signOut" ended with a "Pass" status (Duration: 5,7888 Think Time: 5,0003 Wasted Time: 0,0000).	[MsgId: MMSG-16870]
+Action.c(669): Notify: Transaction "UC_Registration" ended with a "Pass" status (Duration: 55,1867 Think Time: 35,0602 Wasted Time: 0,0022).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=5415912ms: Closed connection [0] to detectportal.firefox.com:80 after completing 20 request(s)  	[MsgId: MMSG-26000]
+t=5415912ms: Closed connection [1] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=5415912ms: Closed connection [2] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=5415912ms: Closed connection [3] to detectportal.firefox.com:80 after completing 5 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 7 (thread 41804), ended OK."	[MsgId: MMSG-10695]
+Action.c(654): t=5415999ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=3854)
+Action.c(654):     HTTP/2.0 200\r\n
+Action.c(654):     Status: 200\r\n
+Action.c(654):     server: nginx/1.18.0 (Ubuntu)\r\n
+Action.c(654):     date: Tue, 13 Jun 2023 01:50:58 GMT\r\n
+Action.c(654):     content-type: text/xml;charset=utf-8\r\n
+Action.c(654):     content-length: 402\r\n
+Action.c(654):     x-content-type-options: nosniff\r\n
+Action.c(654):     x-xss-protection: 1; mode=block\r\n
+Action.c(654):     cache-control: no-store\r\n
+Action.c(654):     pragma: no-cache\r\n
+Action.c(654):     expires: 0\r\n
+Action.c(654):     x-frame-options: DENY\r\n
+Action.c(654):     access-control-request-method: POST, GET, OPTIONS, DELETE\r\n
+Action.c(654):     access-control-allow-methods: POST, GET, OPTIONS, DELETE\r\n
+Action.c(654):     access-control-max-age: 3600\r\n
+Action.c(654):     access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Key, soapact
+Action.c(654):     ion\r\n
+Action.c(654):     access-control-allow-origin: *\r\n
+Action.c(654):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\n
+Action.c(654):     soapaction: ""\r\n
+Action.c(654):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(654):     \r\n
+Action.c(654): t=5416000ms: 402-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=3854)
+Action.c(654):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
+Action.c(654):     ader/><SOAP-ENV:Body><ns2:AccountLogoutResponse xmlns:ns2="com.advantage.online.store.acco
+Action.c(654):     untservice"><ns2:StatusMessage><ns2:success>true</ns2:success><ns2:userId>611849985</ns2:u
+Action.c(654):     serId><ns2:reason>Logout Successful</ns2:reason></ns2:StatusMessage></ns2:AccountLogoutRes
+Action.c(654):     ponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+Action.c(654): t=5416000ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest"  	[MsgId: MMSG-26000]
+Action.c(654): web_custom_request("AccountLogoutRequest") was successful, 402 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
+Action.c(667): Notify: Transaction "signOut" ended with a "Pass" status (Duration: 5,7847 Think Time: 5,0010 Wasted Time: 0,0000).	[MsgId: MMSG-16870]
+Action.c(669): Notify: Transaction "UC_Registration" ended with a "Pass" status (Duration: 54,9785 Think Time: 35,0556 Wasted Time: 0,0018).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=5416001ms: Closed connection [0] to detectportal.firefox.com:80 after completing 20 request(s)  	[MsgId: MMSG-26000]
+t=5416001ms: Closed connection [1] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=5416001ms: Closed connection [2] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=5416001ms: Closed connection [3] to detectportal.firefox.com:80 after completing 5 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 3 (thread 54208), ended OK."	[MsgId: MMSG-10695]
+Action.c(654): t=5416110ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=3854)
+Action.c(654):     HTTP/2.0 200\r\n
+Action.c(654):     Status: 200\r\n
+Action.c(654):     server: nginx/1.18.0 (Ubuntu)\r\n
+Action.c(654):     date: Tue, 13 Jun 2023 01:50:58 GMT\r\n
+Action.c(654):     content-type: text/xml;charset=utf-8\r\n
+Action.c(654):     content-length: 402\r\n
+Action.c(654):     x-content-type-options: nosniff\r\n
+Action.c(654):     x-xss-protection: 1; mode=block\r\n
+Action.c(654):     cache-control: no-store\r\n
+Action.c(654):     pragma: no-cache\r\n
+Action.c(654):     expires: 0\r\n
+Action.c(654):     x-frame-options: DENY\r\n
+Action.c(654):     access-control-request-method: POST, GET, OPTIONS, DELETE\r\n
+Action.c(654):     access-control-allow-methods: POST, GET, OPTIONS, DELETE\r\n
+Action.c(654):     access-control-max-age: 3600\r\n
+Action.c(654):     access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Key, soapact
+Action.c(654):     ion\r\n
+Action.c(654):     access-control-allow-origin: *\r\n
+Action.c(654):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\n
+Action.c(654):     soapaction: ""\r\n
+Action.c(654):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(654):     \r\n
+Action.c(654): t=5416111ms: 402-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=3854)
+Action.c(654):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
+Action.c(654):     ader/><SOAP-ENV:Body><ns2:AccountLogoutResponse xmlns:ns2="com.advantage.online.store.acco
+Action.c(654):     untservice"><ns2:StatusMessage><ns2:success>true</ns2:success><ns2:userId>611849985</ns2:u
+Action.c(654):     serId><ns2:reason>Logout Successful</ns2:reason></ns2:StatusMessage></ns2:AccountLogoutRes
+Action.c(654):     ponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+Action.c(654): t=5416111ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest"  	[MsgId: MMSG-26000]
+Action.c(654): web_custom_request("AccountLogoutRequest") was successful, 402 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
+Action.c(667): Notify: Transaction "signOut" ended with a "Pass" status (Duration: 5,8195 Think Time: 5,0026 Wasted Time: 0,0000).	[MsgId: MMSG-16870]
+Action.c(669): Notify: Transaction "UC_Registration" ended with a "Pass" status (Duration: 55,1033 Think Time: 35,0514 Wasted Time: 0,0013).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=5416112ms: Closed connection [0] to detectportal.firefox.com:80 after completing 20 request(s)  	[MsgId: MMSG-26000]
+t=5416112ms: Closed connection [1] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=5416113ms: Closed connection [2] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=5416113ms: Closed connection [3] to detectportal.firefox.com:80 after completing 5 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 0 (thread 14940), ended OK."	[MsgId: MMSG-10695]
+Action.c(654): t=5416260ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=3854)
+Action.c(654):     HTTP/2.0 200\r\n
+Action.c(654):     Status: 200\r\n
+Action.c(654):     server: nginx/1.18.0 (Ubuntu)\r\n
+Action.c(654):     date: Tue, 13 Jun 2023 01:50:58 GMT\r\n
+Action.c(654):     content-type: text/xml;charset=utf-8\r\n
+Action.c(654):     content-length: 402\r\n
+Action.c(654):     x-content-type-options: nosniff\r\n
+Action.c(654):     x-xss-protection: 1; mode=block\r\n
+Action.c(654):     cache-control: no-store\r\n
+Action.c(654):     pragma: no-cache\r\n
+Action.c(654):     expires: 0\r\n
+Action.c(654):     x-frame-options: DENY\r\n
+Action.c(654):     access-control-request-method: POST, GET, OPTIONS, DELETE\r\n
+Action.c(654):     access-control-allow-methods: POST, GET, OPTIONS, DELETE\r\n
+Action.c(654):     access-control-max-age: 3600\r\n
+Action.c(654):     access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Key, soapact
+Action.c(654):     ion\r\n
+Action.c(654):     access-control-allow-origin: *\r\n
+Action.c(654):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\n
+Action.c(654):     soapaction: ""\r\n
+Action.c(654):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(654):     \r\n
+Action.c(654): t=5416261ms: 402-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=3854)
+Action.c(654):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
+Action.c(654):     ader/><SOAP-ENV:Body><ns2:AccountLogoutResponse xmlns:ns2="com.advantage.online.store.acco
+Action.c(654):     untservice"><ns2:StatusMessage><ns2:success>true</ns2:success><ns2:userId>611849985</ns2:u
+Action.c(654):     serId><ns2:reason>Logout Successful</ns2:reason></ns2:StatusMessage></ns2:AccountLogoutRes
+Action.c(654):     ponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+Action.c(654): t=5416261ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest"  	[MsgId: MMSG-26000]
+Action.c(654): web_custom_request("AccountLogoutRequest") was successful, 402 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
+Action.c(667): Notify: Transaction "signOut" ended with a "Pass" status (Duration: 5,9806 Think Time: 5,0136 Wasted Time: 0,0000).	[MsgId: MMSG-16870]
+Action.c(669): Notify: Transaction "UC_Registration" ended with a "Pass" status (Duration: 55,2908 Think Time: 35,0716 Wasted Time: 0,0014).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=5416262ms: Closed connection [0] to detectportal.firefox.com:80 after completing 20 request(s)  	[MsgId: MMSG-26000]
+t=5416263ms: Closed connection [1] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=5416263ms: Closed connection [2] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=5416263ms: Closed connection [3] to detectportal.firefox.com:80 after completing 5 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 9 (thread 32896), ended OK."	[MsgId: MMSG-10695]

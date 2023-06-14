@@ -1,0 +1,17 @@
+[t118]
+FileName1=t118.htm
+URL1=https://www.advantageonlineshopping.com/app/account/views/myAccount-page.html
+Total=4
+RequestHeaderFile=t118_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t118_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_118.xml
+FileName2=t118_User.jpg
+URL2=https://www.advantageonlineshopping.com/css/images/User.jpg
+FileName3=t118_Master_credit.png
+URL3=https://www.advantageonlineshopping.com/css/images/Master_credit.png
+FileName4=t118_SafePay.png
+URL4=https://www.advantageonlineshopping.com/css/images/SafePay.png
+[ProtocolInfo]
+ProtocolId=QTWeb

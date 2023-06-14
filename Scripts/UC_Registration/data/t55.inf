@@ -1,0 +1,11 @@
+[t55]
+FileName1=t55.txt
+URL1=https://www.google-analytics.com/j/collect?v=1&_v=j100&a=791085225&t=pageview&_s=1&dl=https%3A%2F%2Fwww.advantageonlineshopping.com%2F&dp=%2F&ul=ru-ru&de=UTF-8&dt=%C2%A0Advantage%20Shopping&sd=24-bit&sr=1600x900&vp=1600x789&je=0&_u=IEBAAEABAAAAACAAI~&jid=1146649431&gjid=220848077&cid=929842949.1685872010&tid=UA-81334227-1&_gid=1290450208.1685872010&_r=1&_slc=1&z=1475134735
+Total=1
+RequestHeaderFile=t55_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t55_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_55.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

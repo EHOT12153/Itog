@@ -1,0 +1,12 @@
+GET https://history.google.com/history/api/lookup?client=web_app HTTP/1.1
+X-Developer-Key: 77185425430.apps.googleusercontent.com
+Authorization: Bearer ya29.a0AWY7CkkFhNn5ukYUbIfH7aikiati6x93KAwj_PmvhT_-X_XQP5L8FEXkbCGRpX3YdtoAEvfuDPwHnEQeY1RopZ6rsSyXa6U1hYja8LRzoDfJQlgTCrHjp8yCPMn9PN9HterTBw0lnHaNGqeR7FDbCS9RF4Qv3Mn-Ed4d6ZNgvxG3K1NAadfq_zgbGWyYmV8WNVVuJg8Z2ZKw8F98-ReP_GWhQ5yYqfYjZMmQY2KIOlUQZ_YbHSqB4pAe56o8SIXjEfE9AZVOKwaCgYKAc8SARASFQG1tDrpbb_KFzTiQu70GtbowjhuyQ0273
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,cs;q=0.6,ca;q=0.5
+Host: history.google.com
+Connection: Keep-Alive
+
